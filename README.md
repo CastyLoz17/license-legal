@@ -12,8 +12,8 @@ This repository contains the official legal text of the NCLCE License.
 - Contact: contact@sillyy.gay
 
 ## Files
-- `LICENSE.md` - [Full legal text (authoritative version)](LICENSE.MD)
-- `SUMMARY.md` - [Human-readable summary (non-binding)](SUMMARY.MD)
+- `LICENSE.md` - [Full legal text (authoritative version)](LICENSE.md)
+- `SUMMARY.md` - [Human-readable summary (non-binding)](SUMMARY.md)
 
 ---
 
