@@ -1,5 +1,5 @@
 title: NCLCE License
 description: Non-Commercial License with Commercial Exception Clause
 theme: jekyll-theme-minimal
-readme_index:
-  enabled: true
+markdown: kramdown
+permalink: pretty
