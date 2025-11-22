@@ -95,7 +95,7 @@ FREE software. use it, mod it, share it - just don't sell it or scam people. wan
 
 keep it free. credit me. don't be a dick.
 
-**if anything here is unclear, check the full legal version at: _https://copyright.sillyy.gay_. this is the authoritative legal version (whatever that means) and also the legally binding version.**
+**if anything here is unclear, check the full legal version at: _https://copyright.sillyy.gay_. that's the authoritative legal version (whatever that means) and also the legally binding version.**
 
 ---
 
