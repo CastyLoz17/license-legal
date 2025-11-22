@@ -1,3 +1,12 @@
+---
+title: Human-Readable Summary
+permalink: /summary/
+---
+
+[Home](/) | [Legal Text](/license/)
+
+---
+
 # the "free for everyone except scammers" license
 
 ## formally known as the Non-Commercial Use License with Commercial Exception Clause (NCLCE)
