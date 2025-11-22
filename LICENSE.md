@@ -1,11 +1,8 @@
 ---
-title: Kaemori Non-Commercial License with Commercial Exception Clause
+title: NON-COMMERCIAL USE LICENSE WITH COMMERCIAL EXCEPTION CLAUSE
 permalink: /license/
 ---
-
 [Home](/) | [Summary](/summary/)
-
----
 
 # NON-COMMERCIAL USE LICENSE WITH COMMERCIAL EXCEPTION CLAUSE
 
