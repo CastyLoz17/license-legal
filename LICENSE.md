@@ -1,3 +1,12 @@
+---
+title: Kaemori Non-Commercial License with Commercial Exception Clause
+permalink: /license/
+---
+
+[Home](/) | [Summary](/summary/)
+
+---
+
 # NON-COMMERCIAL USE LICENSE WITH COMMERCIAL EXCEPTION CLAUSE
 
 **Based on Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**
